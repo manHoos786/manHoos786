@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @manHoos786
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... sharmaaakash170@gmail.com
+- 👋 Hi, I’m Aakash Sharma.
+- 👀 I’m interested in development.
+- 🌱 I’m currently learning machine learning(ML).
+- 💞️ I’m looking to collaborate on projects.
+- 📫 How to reach me sharmaaakash170@gmail.com
 
 
 <!---
